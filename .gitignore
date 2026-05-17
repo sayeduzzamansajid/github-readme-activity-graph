@@ -2,9 +2,8 @@
 
 # dependencies
 /node_modules
-.vscode
 /dist
-.env
 /coverage
 /.idea
 .package-lock.json
+config.bat
